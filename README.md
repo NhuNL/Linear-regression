@@ -10,4 +10,5 @@
 
 ## Linear regression
 
-
+Link to more diagnostic plots:
+https://github.com/dynobo/lmdiag/blob/master/example.ipynb
