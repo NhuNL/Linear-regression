@@ -10,8 +10,8 @@
 
 ## Linear regression
 
-Linear regression example using statsmodels: 
+### Linear regression example using statsmodels: 
 https://github.com/NhuNL/Linear-regression/blob/master/Linear%20regression%20using%20statsmodels%20example.ipynb
 
-Link to more diagnostic plots:
+### Link to more diagnostic plots:
 https://github.com/dynobo/lmdiag/blob/master/example.ipynb
